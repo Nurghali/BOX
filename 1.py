@@ -1,3 +1,4 @@
 x = input('vvedite imia')
-print('Privet {0}'. format(x))
+v = input('vvedite vozrast')
+print('Privet {0} vash vosrast {1}'. format(x,v))
 
